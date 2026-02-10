@@ -1,7 +1,7 @@
 {
   "name": "imgbuild",
   "private": true,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Desktop app for image processing - resize, compress, convert to WebP",
   "main": "electron/main.js",
   "author": "savioomio",
